@@ -1,3 +1,6 @@
+# Belajar-Python
+## Cara Input Menggunakan Python
+
 - **Buka menu pencarian dan buka IDLE Python**
 
 ![Screenshot (18)](https://user-images.githubusercontent.com/92771347/137863776-3044cf9b-091c-4764-aca8-5026d34e6009.png)
@@ -21,3 +24,10 @@
 - **jalankan program**
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/92771347/137865322-5c49131c-6c39-48ca-b03c-47a9bbf62df1.png)
+
+## Output
+
+![Screenshot (24)](https://user-images.githubusercontent.com/92771347/137866590-0d73ccaa-907b-47c3-bbf2-a6ae12718eb3.png)
+
+- selesai
+## Terima Kasih dan Selamat Mencoba
